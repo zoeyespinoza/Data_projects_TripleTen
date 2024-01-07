@@ -18,4 +18,4 @@ Projects I worked on while attending the Data Science TripleTen bootcamp 2023-20
 | 12 | Numerical Methods Model Training | Row 6, Cell 3 |
 | 13 | Times Series Predicting Taxi Orders | Row 6, Cell 3 |
 | 14 | ML for Texts Film Sentiment Analysis | Row 6, Cell 3 |
-| 15 | Computer Vision Age Verification for GoodSeeed | Row 6, Cell 3 |
+| 15 | [Computer Vision Age Verification for GoodSeed](https://github.com/zoeyvero/Computer-Vision-Age-Verification-Supermarkets) | Age Verification System for Good Seed Supermarkets, using Computer Vision to implement store policies|
