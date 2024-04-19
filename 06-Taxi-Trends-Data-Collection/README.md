@@ -1,5 +1,5 @@
 # Taxi-Trends-Data-Collection
-# Taxi Service Insights: Unveiling Ride Patterns, Demand Hotspots, and Weather Effects
+# Taxi Service Insights: Unveiling Ride Patterns, Demand Hotspots, and Effects of Weather
 
 ## Introduction
 This project involves an explorative analysis of taxi ride data with the aim of exploring various aspects of the taxi service patterns of top comapnies and locations. 
